@@ -1,7 +1,7 @@
 # Esx_LrocAntiCheat
 This is Fivem-anticheat It detects most cheaters/modders
-
-##Features
+ 
+## Features
 - it counts every resource and if somebody stops resource then its BAN
 - Bans esx events & bans esx:getsharedobject users
 - Ban id easier to find the banned guy
@@ -11,6 +11,6 @@ This is Fivem-anticheat It detects most cheaters/modders
 - bans in ac-bans.json
 - Optimized 15%
 
-##Installing
+## Installing
 - DragnDrop in Resources folder
 - go server.cfg and put `start LrocAntiCheat`
