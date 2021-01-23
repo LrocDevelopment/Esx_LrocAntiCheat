@@ -1,4 +1,4 @@
-# Esx_LrocAntiCheat
+# esx_LrocAntiCheat aka LrocAC
 This is Fivem-anticheat It detects most cheaters/modders
  
 ## Features
@@ -6,11 +6,14 @@ This is Fivem-anticheat It detects most cheaters/modders
 - Bans esx events & bans esx:getsharedobject users
 - Ban id easier to find the banned guy
 - Ban & Unban command
-- AntiExplosion + if someone tries explode press f8 to see who
-- antiweapon&antiped
 - bans in ac-bans.json
-- Optimized 15%
+
+# 0.1.1 Versio
+## What's New 
+- Optimized
+- antiweapon&antiped
+- AntiExplosion + if someone tries explode press f8 to see who
 
 ## Installing
-- DragnDrop in Resources folder
+- DragNdrop in Resources folder
 - go server.cfg and put `start LrocAntiCheat`
